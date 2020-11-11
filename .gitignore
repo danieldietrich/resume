@@ -1,0 +1,10 @@
+# LaTeX (don't ignore pdf, outherwise it will not be deployed by the GitHub Action)
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+
+# Mac
+.DS_Store
